@@ -3,3 +3,8 @@
 when you initialize a repository git will create a new folder for you where you can keep track of your files
 
 you need create a repository because if you wish to work with git you must have a repository
+
+(Q2)How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+files in the staging area are not added to the repository they keep when you commit all the files in the staging ares will be a commited at onec 
+it makes it easy if you wish to commit multiple files at the time
