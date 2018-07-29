@@ -1,0 +1,5 @@
+(Q1)What happens when you initialize a repository? Why do you need to do it?
+
+when you initialize a repository git will create a new folder for you where you can keep track of your files
+
+you need create a repository because if you wish to work with git you must have a repository
