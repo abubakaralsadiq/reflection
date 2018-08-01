@@ -8,3 +8,16 @@ you need create a repository because if you wish to work with git you must have 
 
 files in the staging area are not added to the repository they keep when you commit all the files in the staging ares will be a commited at onec 
 it makes it easy if you wish to commit multiple files at the time
+
+(Q3)How can you use the staging area to make sure you have one commit per logical change?
+
+to make sure that you are making one commit per logic change you need to add the files to staging area only when where will be a logic change
+
+(Q4)What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+branch will be helpfull in most casess when you are trying a new feture or try to debbug an error 
+branches do help because if without branches you must create a new copy of all your working files before trying to make any logic change or try an error
+
+(Q4)How do the diagrams help you visualize the branch structure?
+
+diagrams helps to visualize branches because with a diagram you can each commit belongs to which parent 
