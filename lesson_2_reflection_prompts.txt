@@ -27,3 +27,7 @@ diagrams helps to visualize branches because with a diagram you can each commit 
 The result of marging two branches is to combine what's in the one branch but not in the other to make it all into one branch
 
 We do represt it in diagram because to visualize the branches in a more simpler way and to understand how it all fit together
+
+(Q6)What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git's automatic marging make's it easy to marge branches since the branches have same root or parent while if there is a change in thesame file in both files git's automatic marging will not worke no less the conflict is resovel
