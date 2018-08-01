@@ -21,3 +21,9 @@ branches do help because if without branches you must create a new copy of all y
 (Q4)How do the diagrams help you visualize the branch structure?
 
 diagrams helps to visualize branches because with a diagram you can each commit belongs to which parent 
+
+(Q5)What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of marging two branches is to combine what's in the one branch but not in the other to make it all into one branch
+
+We do represt it in diagram because to visualize the branches in a more simpler way and to understand how it all fit together
