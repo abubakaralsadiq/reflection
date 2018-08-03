@@ -11,3 +11,8 @@ forks is used on the github page to kind of downolad the repository while clone 
 -use forks on the github page
 -use clone on your local machine
 -use branch to implement a new feature
+
+(Q4)What is the benefit of having a copy of the last known state of the remote stored locally?
+
+having the last known state is important because some time when you will be working on a project and you are offline or the area the you are does not have an internet connection
+it will be good to have the last state locally
